@@ -30,7 +30,7 @@ I am building two models, one for catching anomalies in the weather in general, 
 ### General Weather 
 ![result weather](images/weather_train.png)
 
-The model has identified '2010-02-14', '2010-02-15', '2010-03-22', '2010-03-23', '2012-01-23' as the days with the most anomalous weather, we can investigate what happened to access the performance of the model.
+The model has identified *'2010-02-14', '2010-02-15', '2010-03-22', '2010-03-23', '2012-01-23'* as the days with the most anomalous weather, we can investigate what happened to access the performance of the model.
 
 A quick search online reviewed that there was a [massive flood](https://en.wikipedia.org/wiki/July_2012_Beijing_flood) on 2012-07-21 in Beijing leading to the death of 79 people and caused 10 billion yuan worth of damage.
 
@@ -45,5 +45,12 @@ It appears that our model was able to catch large anamalies
 
 ### Pollution 
 ![result pollution](images/pollution_train.png)
+
+The model has identified *'2010-02-14', '2010-02-15', '2010-03-22', '2010-03-23', '2012-01-23'* as the most anomalous days pollution wise.
+
+'2010-02-14', '2010-02-15', '2012-01-23' corresponds with Chinese new year celebrations in China where firework is used extensively in the hope of bring good luck for the coming year.
+
+![chinese new year](images/firework.jpeg)
+
 
 ## Future Work
