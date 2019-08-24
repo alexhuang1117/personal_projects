@@ -54,7 +54,7 @@ The model has identified *'2010-02-14', '2010-02-15', '2010-03-22', '2010-03-23'
 
 '2010-03-22', '2010-03-23' was just after beijing being hit by a [sandstorm](http://www.chinadaily.com.cn/china/2010-03/20/content_9617579.htm)
 
-[sandstorm](images/sandstorm.jpg)
+![sandstorm](images/sandstorm.jpg)
 
 
 ## Future Work
