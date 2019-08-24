@@ -27,4 +27,10 @@ I am building two models, one for catching anomalies in the weather in general, 
 
 ## Results
 
+### General Weather 
+![result weather](image/weather_train.png)
+
+### Pollution 
+![result pollution](image/pollution_train.png)
+
 ## Future Work
