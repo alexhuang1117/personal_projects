@@ -34,10 +34,11 @@ The model has identified '2010-02-14', '2010-02-15', '2010-03-22', '2010-03-23',
 
 A quick search online reviewed that there was a [massive flood](https://en.wikipedia.org/wiki/July_2012_Beijing_flood) on 2012-07-21 in Beijing leading to the death of 79 people and caused 10 billion yuan worth of damage.
 
-![2012 flood](http://www.globaltimes.cn/Portals/0/attachment/2011/fc013b50-8f01-45b9-8255-85f12d462ef5.jpeg)
-
+![2012 flood](images/2012flood.jpeg)
 
 On 2011-08-26, heavy rain casued [flooding](http://www.chinadaily.com.cn/photo/2011-08/26/content_13198082.htm) in Beijing leading to traffic jams. There was no death reported and damage to infrastructure was not reported.
+
+![2011 heavy rain](images/2012heavyrain.jpg)
 
 It appears that our model was able to catch large anamalies
 
