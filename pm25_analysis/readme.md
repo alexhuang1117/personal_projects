@@ -60,3 +60,4 @@ The model has identified *'2010-02-14', '2010-02-15', '2010-03-22', '2010-03-23'
 
 
 ## Future Work
+I intend to expend this project by web scrapping weather data and have the anomaly detection running real time.
