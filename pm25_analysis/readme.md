@@ -25,6 +25,8 @@ I am using the Beijing weather and pollution data found [UCI Machine Learning Re
 
 I am building two models, one for catching anomalies in the weather in general, one for catching anomalies in the pollution specifically. The model takes as input weather data from time step t-n to t-1 to predict weather data at time step t as output. The prediction is than compared with the real value, the sum of the square errors gives us the anmaly score. The main idea is that the model should learn the normal behaviour, and where an anomaly occurs, the model will be unable reproduce the result
 
+![model architecture](images/model_arch.jpg)
+
 ## Results
 
 ### General Weather 
