@@ -46,7 +46,7 @@ It appears that our model was able to catch large anamalies
 
 
 ### Pollution 
-![result pollution](images/pollution_train.png)
+![result pollution](images/pollution_anom.png)
 
 The model has identified *'2010-02-14', '2010-02-15', '2010-03-22', '2010-03-23', '2012-01-23'* as the most anomalous days pollution wise.
 
